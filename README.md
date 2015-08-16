@@ -1,2 +1,2 @@
-# meteor-trello-client
-Meteor wrapper for the Trello client API.
+# Meteor Trello Client
+Meteor wrapper for the Trello [client API](https://trello.com/docs/gettingstarted/clientjs.html).
